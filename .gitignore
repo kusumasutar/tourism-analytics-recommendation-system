@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Python cache
+.pytest_cache/
+
+# Large/raw datasets
+data/raw/
+
+# MLflow
+mlruns/
